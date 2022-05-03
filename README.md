@@ -1,10 +1,10 @@
-# SWAT-MODFLOW model with PEST 2022
+# SWAT-MODFLOW model with PEST in UNIST
 
 ## Get data and jupyter notebooks
 You essentially have 2 options:
 
 #### - Easy way
-- [Download the data zip file](https://github.com/spark-brc/2022_swatmf_pest_webinar/archive/refs/heads/main.zip)
+- [Download the data zip file](https://github.com/spark-brc/swatmf_pest_unist/archive/refs/heads/main.zip)
 - Unzip it to a prefered location.
 - After unzipping the archive file, unzip the "SWAT-MODFLOW" model zip file too.
 
@@ -20,7 +20,7 @@ You essentially have 2 options:
     - Clone the materials by executing the following in the git bash or terminal window:    
 
     ```bash
-    git clone https://github.com/spark-brc/2022_swatmf_pest_webinar.git
+    git clone https://github.com/spark-brc/swatmf_pest_unist.git
     ```  
         
 ## Installation
@@ -36,7 +36,7 @@ To execute jupyter notebook, we need the Anaconda environment.
 ```bash
 conda create -n swatmf_pest python=3.9 jupyter notebook
 ```
-- Activate the sm_pest environment
+- Activate the swatmf_pest environment
 ```bash
 conda activate swatmf_pest 
 ```
@@ -48,7 +48,7 @@ pip install swatmf
 Then change directory into the example folder or drive:  
 - Change directory (example) or select drive where the dataset was downloaded
 ```bash
-cd 2022_swatmf_pest_webinar-main
+cd swatmf_pest_unist-main
 ```  
 - Launch jupyter notebook 
 ```bash
