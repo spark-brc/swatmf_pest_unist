@@ -1,4 +1,4 @@
-# SWAT-MODFLOW model with PEST in UNIST
+# SWAT-MODFLOW model with PEST in UNIST (20220506)
 
 ## Get data and jupyter notebooks
 You essentially have 2 options:
